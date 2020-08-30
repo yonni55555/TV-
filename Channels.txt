@@ -1,0 +1,23 @@
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ערוצים + [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://ngarba.xyz/adds/yos/a1a194.png</thumbnail><fanart>http://getwallpapers.com/wallpaper/full/d/2/5/283605.jpg</fanart><info>ערוצים מכול העולם מתעדכנים </info>
+<externallink>https://pastebin.com/raw/QYKCtZqs</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים ועוד [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>https://lh3.googleusercontent.com/dysGXcTxB3cA7V76y3I9ipVha1pG6-ZwuLbZw5UyTP7lu5E-kwaKjYsqVCm-ascvrSU</thumbnail><fanart>https://s.studiobinder.com/wp-content/uploads/2020/08/The-Best-Heist-Movies-of-All-Time-Ranked-for-Filmmakers-Featured.jpg</fanart><info>סרטים מתעדכנים </info>
+<externallink>https://pastebin.com/raw/yzK4xCtE</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מוזיקה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>https://lh3.googleusercontent.com/RJ5bEJhs3xOBhub7-164-nfxV4GUuSOY6G2yQA1JSYAYgJ3KdbrXQvhMGuLvTA0zlzM</thumbnail><fanart>https://wallpaperstock.net/dance-music%2C--club_wallpapers_56480_1920x1080.jpg</fanart><info>ערוצי מוזיקה מתעדכנים </info>
+<externallink>https://pastebin.com/raw/WrS6Kytv</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]טבע [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>https://cdn1.sipurderech.co.il/512x512_fill_90/1527195628654_WhatsApp_Image_2018-05-23_at_22.45.48(7).jpeg</thumbnail><fanart>https://images.hdqwalls.com/download/best-nature-image-1920x1080.jpg</fanart><info>ערוצי טבע מתעדכנים </info>
+<externallink>https://pastebin.com/raw/G2UuzQFx</externallink>
+</item>
