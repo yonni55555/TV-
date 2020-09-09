@@ -1,0 +1,197 @@
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מחלקת גנים ונוף [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//GnRzqNyUz1vEUcVkMTHZuSaRZR.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//dVISMO3TdX9HfcnA4gt3PSqcfjL.jpg</fanart><info>קומדיה מוקו-מנטרית שנונה מאת היוצרים של 'המשרד', בכיכובה של איימי פוהלר ['סאטרדיי נייט לייב']. פוהלר מגלמת את לסלי נופ, סגנית </info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Parks.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]הבן האובד [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//sp5BL7O4SnnTnXf9ECNrXbJQyqt.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//8vVTtOuQYCYcGyQuf31rZeGFIGk.jpg</fanart><info>דרמת פשע משטרתית מעולה וקצבית בכיכובם של מייקל שין וטום פיין. מלקלום ברייט, הוא בנו של רוצח סדרתי וגם פרופיילר פלילי מצוין אשר </info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Prodigal.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]RWBY [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//cMD2SRf3POLQBLK24H2dJmWurSC.jpg</thumbnail><fanart>https://m.media-amazon.com/images/M/MV5BOTM4MTllODUtNTQzOS00ZDVlLWIyMjAtMzI1OGZmZWY1NGMxXkEyXkFqcGdeQXVyMjIxNjY2NjE@._V1_UY268_</fanart><info>4 נערות מתבגרות מקימות את צוות RWBY ומתאמנות להילחם בפשע ובמפלצות המכונות הגרים, בעוד עולמה של שריד נשאר על סף מלחמה.</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/RWBY.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ראגנארוק [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//wu444tM9YBllq9UcBv5TeidO3j3.jpg</fanart><info>מיני סדרת דרמה נורבגית בת 6 פרקים. אחרית הימים נראית קרובה מתמיד בעיירה נורווגית שמתמודדת עם זיהום ועם קרחונים שנמסים סביבה. רק</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Ragnarok.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]העות'מאנים: לידתה של אימפריה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//bQ89Ekr6oCQpeU3UuwgLxpCx9W1.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//ztruG6mR07igZWchQHiaFkND8Di.jpg</fanart><info>הסולטן העות'מאני מהמט השני מנהל מערכה כבירה לכיבושה של בירת האימפריה הביזנטית, קונסטנטינופול. תוצאותיה של המערכה יקבעו את מהלך </info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Rise.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ריברדייל [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//qiZ8j28i9y0Je0D78khR5yaEX5Y.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//9hvhGtcsGhQY58pukw8w55UEUbL.jpg</fanart><info>מבית היוצר של 'החץ' ומהמפיקים של 'אחת שיודעת' ו-'ורוניקה מארס' מגיעה סדרה מסתורית העוקבת אחר ארצ׳י, הדמות המפורסמת מספרי הקומיק</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Riverdale.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]רומא [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//jSZsCkey60fz6BGAmAjkkW6pqx1.jpg</fanart><info>'רומא' הינה סאגה בין שני חיילים רומים רגילים ומשפחתיהם. סיפור דרמה על אהבה ובגידה, שליטים ועבדים, בעלים ונשים, המתרחש בתקופת הג</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Rome.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ג'ק הסמוראי [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//xcIQe61dObuBsexWXgAkZAwhenq.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//kgTxdNktcvIIGZus6ALFyeW8ruY.jpg</fanart><info>כאשר האימפריה של אביו הקיסר מושמדת על ידי השד 'אקו', נמלט הנסיך - אז ילד צעיר, ומתחיל באימוני לחימה על מנת לשוב בבוא היום ולהבי</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Samurai.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]חסרי בושה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//vpSukfClDC1ufzgrKusdxMsgfO1.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//1ccgQ6IJyEc8UHPtGeFFeRqMVnc.jpg</fanart><info>פרנק גלאגר הוא אב חד-הורי ל-6 ילדים. את רוב ימיו הוא מבלה בחגיגות רוויות אלכוהול עם מעט הכסף שנותר למשפחה, כשאת לילותיו מסיים ש</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Shamelesss.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]שון כבשון: הרפתקאות במוסי בוטום [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//jaRbqGU3eGdSBycsqpopFHXzbnk.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//foIJCDrsF9Q5JAismrBK04kYSzj.jpg</fanart><info>שון הכבשון הפיקח, ביצר הכלב הנאמן ושאר חבורת מוסי בוטום מתכננים שלל הרפתקאות ותעלולים בחווה.</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Shaun.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]שרלוק [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//aguWVR8xNilvw7t4X03UvG1hRJr.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//oFvjxSIPYv5YXspDlnWeDJhnPHI.jpg</fanart><info>שרלוק מתארת את הרפתקאותיהם של שרלוק הולמס וד'ר ג'ון ווטסון, גיבורי הקלאסיקות של ארתור קונאן דויל, בעלילות עכשוויות בלונדון של ה</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Sherlock.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]עמק הסיליקון [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//2pIyECToC46ksTYRqJXX30Q76C7.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//4pfXAnWxOfEJsUgDPW0zqzs5UWv.jpg</fanart><info>סדרה קומית חדשה של רשת HBO, שלוקחת את הצופים אל חייהם יוצאי הדופן של גאוני הסטארט-אפ המודרניים. בעמק הסיליקון, האנשים המוכשרים </info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Silicon.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]עסק מסוכן [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//jyoPy0nW38nC1tEBhUKKrOzails.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//w5ochA17SKWrvBmGzF3byXy4fKf.jpg</fanart><info>מפיק היפ-הופ מתקבל לחברת תקליטים, אבל החברה הופכת למוקד של תעשיית סמים קטלנית והוא מוצא את עצמו בתוך עולם הפשע המאורגן.</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Skylines.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]הפכים סולאריים [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//7T6lIc5apaXxydUzsdKjqMA9xT2.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//dqMxD2fxfRF2NvP0TP7Pu2kDhu.jpg</fanart><info>משפחה של חייזרים עוברת לאמריקה התיכונה, שם הם מתווכחים אם החיים טובים יותר שם או על הפלנטה הביתית שלהם.</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Solar.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סאות' פארק-עונות-1-8 [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//xATHOA0bN1IpVfzfOJtJ8WdvAyB.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//gLf7hpvlDgqLDp6IUhTQTMivu6h.jpg</fanart><info>סדרת אנימציה לנערים ולמבוגרים אשר הפכה לסדרת קאלט בארה'ב, המתארת את עלילותיהם של ארבעה ילדים יוצאי דופן, בסאות' פארק, עיירה לא </info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Southa.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סאות' פארק-עונות-9-16 [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//xATHOA0bN1IpVfzfOJtJ8WdvAyB.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//gLf7hpvlDgqLDp6IUhTQTMivu6h.jpg</fanart><info>סדרת אנימציה לנערים ולמבוגרים אשר הפכה לסדרת קאלט בארה'ב, המתארת את עלילותיהם של ארבעה ילדים יוצאי דופן, בסאות' פארק, עיירה לא </info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Southb.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סאות' פארק-עונות-17-23 [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//xATHOA0bN1IpVfzfOJtJ8WdvAyB.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//gLf7hpvlDgqLDp6IUhTQTMivu6h.jpg</fanart><info>סדרת אנימציה לנערים ולמבוגרים אשר הפכה לסדרת קאלט בארה'ב, המתארת את עלילותיהם של ארבעה ילדים יוצאי דופן, בסאות' פארק, עיירה לא </info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Southc.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]נאחזת בקרח [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//bAEGuEK0z4KTlrsx5UYpIvmPIPc.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//o5Rl0MZlblO7y83FmAEhDlJGOna.jpg</fanart><info>חלום המדליה האולימפית משתלט לחלוטין על חייה של כוכבת החלקה אמנותית על הקרח, שמתקשה למצוא את האיזון הנכון בין חיי האהבה שלה, משפ</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Spinning.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מסע בין כוכבים: פיקארד [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//nIlAKIrLKxOeoEnc0Urb65yNCp.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart><info>סדרת המשך לסדרה 'מסע בין כוכבים: הדור החדש' [Star Trek: The New Generation] משנת 1987, הסידרה מתמקדמת בקפטן ז'אן-לוק פיקארד, קפ</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Star.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מלחמת הכוכבים: מלחמת המשובטים [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//p6s2svEHHLsQ1TOw4Si54c1dD5L.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg</fanart><info>מלחמת המשובטים סוחפת את הגלקסיה ואבירי הג'די נאבקים כדי להשליט סדר ולהחזיר את השקט. אנקין וחבורתו יוצאים למלחמה נגד כוחות השחור</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Starw.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סטמפטאון [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//3KphzAbThulphwHGCu22RzFlhqR.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//jFeeyKToJZZ0mRt8zerCDg0LdF5.jpg</fanart><info>ותיקה ימית חריפה הופכת לחוקרת פרטית בפורטלנד, אורגון, שם היא מטפלת באח שלה הסובל מתסמונת דאון.</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Stumptown.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]חליפות [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//tO7ZrHB6zDqwYleFmGJLBhKmXc3.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//qyDlF1U1yayXIUniECmGA1oBwZy.jpg</fanart><info>מייק רוס הוא אדם עצלן אך מבריק שנשר מהקולג'. בזכות כישורי הרחוב המצוינים שלו, מייק מועסק באחת באחת מחברות עורכי הדין הבכירות שב</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Suits.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]היצור מן הביצה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//dD3HcMczLC9wNvfNzx4pZVyl6q8.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//dD3HcMczLC9wNvfNzx4pZVyl6q8.jpg</fanart><info>אלכס אולסן הוא מדען שנלכד במעבדתו לאחר שעוזרו פוצץ אותה. עוזרו, דמיאן רידג', התכוון להרוג את אולסן ולהשיג את ידה של אשתו לינדה.</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Swamp.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]TVF Pitchers [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//w0A288hXCytNIi9Kh7VkKE8MQ1W.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//7u2JfrFabknZivwcoXGtgzfVwE.jpg</fanart><info>סיפור של ניסויים ומצוקות של ארבעה יזמים צעירים שעזבו את עבודתם במטרה להמשיך במיזם ההקמה שלהם.</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/TVF.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]טאבו [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//tR4hfUBjiSjYdww5eb6XXW9LpEA.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//uFwMLQdiHMNa0qmnNVZzoDC7BPw.jpg</fanart><info>מיני-סדרה המבוססת על סיפור מקורי שכתבו טום הארדי ואביו צ'יפס הארדי. ג'יימס קזייה דלייני חוזר בשנת 1814 ללונדון לאחר עשור בו שהה</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Taboo.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ספר לי סיפור [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//dHSM15QeUa9aZhA5eafFbgdqPY1.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//hRUpjh7zyueZMUjzMfkgdu66AxG.jpg</fanart><info>סדרת אנתולוגיה המציגה אגדות אהובות השזורות בסיפור חתרני של אהבה, אובדן, בצע, נקמה ורצח.</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Tell.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]הנמלה והאארדווארק [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//9X9Mcl2tKcVxxa2LlLbDy4qp7FV.jpg</thumbnail><fanart>https://m.media-amazon.com/images/M/MV5BMTc4NjkwMTQ0Ml5BMl5BanBnXkFtZTcwMTI1Mjg4NA@@._V1_UX182_CR0,0,182,268_AL_.jpg</fanart><info>חרדון מנסה לתפוס נמלה אחת ללא הצלחה.</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Thea.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]בייבי בוס: גדול בעסקים [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//oQRehZIwmA14voQ7HXYasJOUtCU.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//dGCKSwhsSF3nAmDjm4uSKslRYpF.jpg</fanart><info>סדרת אנימציה שנולדה בעקבות הסרט המצליח. בייבי בוס מביא את אחיו הגדול טים למשרד כדי להעביר לו שיעורים באומנות העסקים.</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Theb.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]הכתר [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//gbOh7DR6s3vlVTdyZQVEMfViXYa.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//p3qBwzzLe9aw1yA0s4hg0M2DvD0.jpg</fanart><info>דרמה העוקבת אחרי היריבויות הפוליטיות והפרשיות הרומנטיות שליוו את תקופת שלטונה של המלכה אליזבת השנייה על רקע האירועים שעיצבו את </info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Thec.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]המגנים [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//vIqRv2FoYPkhRwS3h5SLLCP9I4k.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//7eV2vDrj1AwlTffUud66v9o0Ytq.jpg</fanart><info>חודשים ספורים לאחר אירועי עונתה השנייה של הסדרה 'דרדוויל', וכחודש לאחר אירועי הסדרה 'איירון פיסט', גיבורי סדרות מארוול של נטפלי</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Thed.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]המשחק האנגלי [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//vvOccQ5Mcn665KXS2KSnldhpvva.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//gVj2cKqtI27Z37woGRm7847V8WJ.jpg</fanart><info>במאה ה-19, שני כדורגלנים ממעמדות שונים מתמודדים עם סערות בחייהם האישיים והמקצועיים ומצליחים לשנות לתמיד את חוקי המשחק – ואת אנג</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Thee.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]הפלאש [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//wHa6KOJAoNTFLFtp7wguUJKSnju.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//jC1KqsFx8ZyqJyQa2Ohi7xgL7XC.jpg</fanart><info>סדרת בת של 'החץ' המוצלחת בפני עצמה. בארי אלן איבד את אמו בתקרית מוזרה כשהיה בן 11. תאונה שבעטייה הואשם אביו ונשלח לכלא. בבגרותו</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Thef.txt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]המקום הטוב [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://image.tmdb.org/t/p/original//ksvzplzKHhP0OrU5SVXoYQjIUFX.jpg</thumbnail><fanart>http://image.tmdb.org/t/p/original//tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg</fanart><info>אלנור היא בחורה אנוכית שחיה את חייה ללא טיפת כבוד לאחרים. היא דואגת רק לעצמה ולא חשה אמפתיה, אשמה או חרטה על מי שנפגע בדרך. בעק</info>
+<externallink>https://github.com/yonni55555/TV-/raw/master/Theg.txt</externallink>
+</item>
