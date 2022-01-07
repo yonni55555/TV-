@@ -1,0 +1,110 @@
+#EXTM3U tvg-shift=1 x-tvg-url="http://tinyurl.com/epg-israel"
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="[COLOR blue][COLOR deepskyblue]ספורט [/COLOR]" tvg-logo="https://uclbranding.uefa.com/assets/img/top-image.jpg", [COLOR coral]==== ערוצי ספורט ==== [/COLOR] 
+https://tinyurl.com/idan-guide
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1021.png" group-title="[COLOR blue][COLOR deepskyblue]ספורט [/COLOR]",Sport1
+https://iptv.x-cloud.info:1443/Sport1/video.m3u8?token=QVI9YA3q12
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1022.png" group-title="[COLOR blue][COLOR deepskyblue]ספורט [/COLOR]",Sport2HD
+https://iptv.x-cloud.info:1443/Sport2HD/video.m3u8?token=QVI9YA3q12
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1023.png" group-title="[COLOR blue][COLOR deepskyblue]ספורט [/COLOR]",Sport3HD
+https://iptv.x-cloud.info:1443/Sport3HD/video.m3u8?token=QVI9YA3q12
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1024.png" group-title="[COLOR blue][COLOR deepskyblue]ספורט [/COLOR]",Sport4HD
+https://iptv.x-cloud.info:1443/Sport4HD/video.m3u8?token=QVI9YA3q12
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1025.png" group-title="[COLOR blue][COLOR deepskyblue]ספורט [/COLOR]",5Sport
+https://iptv.x-cloud.info:1443/5Sport/video.m3u8?token=QVI9YA3q12 
+ 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1028.png" group-title="[COLOR blue][COLOR deepskyblue]ספורט [/COLOR]",5Gold
+https://iptv.x-cloud.info:1443/5Gold/video.m3u8?token=QVI9YA3q12 
+ 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png" group-title="[COLOR blue][COLOR deepskyblue]ספורט [/COLOR]",5LiveHD
+https://iptv.x-cloud.info:1443/5LiveHD/video.m3u8?token=QVI9YA3q12 
+ 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1026.png" group-title="[COLOR blue][COLOR deepskyblue]ספורט [/COLOR]",5PlusHD
+https://iptv.x-cloud.info:1443/5PlusHD/video.m3u8?token=QVI9YA3q12
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]" tvg-logo="http://thumbs2.imagebam.com/7c/71/27/8d2446784877333.jpg", [COLOR coral]==== תחנות טלוויזיה ==== [/COLOR] 
+https://tinyurl.com/idan-guide
+
+
+
+
+
+ 
+#EXTINF:-1 tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 11 כאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch קשת 12 
+https://iptv--iptv.repl.co/Hebrew/keshet_12
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch קשת 12 דרך עידן פלוס
+plugin://plugin.video.idanplus/?mode=5&url=ch_12
+
+
+#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]", 13 רשת
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+
+
+
+
+ 
+
+ 
+#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 20 מורשת
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://www.economist.co.il/_Uploads/dbsArticles/_cut/F0_0244_0000_sc_244.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 21 ערוץ הקניות
+http://shoppingil-rewriter.vidnt.com/video_1080p_1000008812.m3u8
+
+#EXTINF:-1 tvg-logo="http://storage.googleapis.com/openscreenshot/7/_/1/H1WUfc1_7.png" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/ec/75/53/eb02a3784877443.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1521305784~acl=/*~data=hdntl~hmac=0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/7f/c9/59/47d865784878303.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 33 מכאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_1.8k/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://hala-tv.com/images/hala_logo.png" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch HALA TV
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/nGw5vHfB5NO9xlUHF4OeyNSeTSfxurVU4EuQtfFL5cd_vQ-U1JDT6NTI6dps2peeZLM" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch הידברות
+https://srv11.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch קבלה
+https://edge2.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/83/d6/c4/66b29e784878143.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 99 הכנסת
+https://contact.gostreaming.tv/Knesset/myStream/chunklist_w1308679764.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/49/e2/cc/49e2cc3c-726b-52cb-9029-42489a1b9891/source/512x512bb.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]", Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://www.sport5.co.il/Images/trashtalk-default-logo.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]", אתר ספורט 5
+https://iptv.x-cloud.info:1443/5Sport/video.m3u8?token=QVI9YA3q12
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shmua.com/wp-content/uploads/2019/11/623236632236-400x335.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 26 האח הגדול
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.shmua.com/wp-content/uploads/2019/11/623236632236-400x335.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",מקור-2 האח הגדול
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
+
+
+
+
+
