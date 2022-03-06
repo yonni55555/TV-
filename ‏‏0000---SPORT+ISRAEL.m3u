@@ -1,8 +1,5 @@
-#EXTM3U tvg-shift=1 x-tvg-url="http://tinyurl.com/epg-israel"
 
-
-
-
+#EXTM3U
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]" tvg-logo="http://thumbs2.imagebam.com/7c/71/27/8d2446784877333.jpg", [COLOR coral]==== תחנות טלוויזיה ==== [/COLOR] 
@@ -81,181 +78,22 @@ https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/in
 
 
 
+#EXTINF:0 group-title="ספורט---1" tvg-id="2684" tvg-logo="http://epg.it999.ru/img/2684.png" tvg-rec="0",ספורט 1 [COLOR aqua]+ [/COLOR] IL
+http://line.crystal-ott.com/RtNRsrxIFEmtfYX/buLi3EPoPU/105768
+#EXTINF:0 group-title="ספורט---1" tvg-id="2683" tvg-logo="http://epg.it999.ru/img/2683.png" tvg-rec="0",ספורט 2 [COLOR aqua]+ [/COLOR] IL
+http://line.crystal-ott.com/RtNRsrxIFEmtfYX/buLi3EPoPU/105767
+#EXTINF:0 group-title="ספורט---1" tvg-id="2719" tvg-logo="http://epg.it999.ru/img/2719.png" tvg-rec="0",ספורט 3 [COLOR aqua]+ [/COLOR] IL
+http://line.crystal-ott.com/RtNRsrxIFEmtfYX/buLi3EPoPU/105766
+#EXTINF:0 group-title="ספורט---1" tvg-id="2720" tvg-logo="http://epg.it999.ru/img/2720.png" tvg-rec="0",ספורט 4 [COLOR aqua]+ [/COLOR] IL
+http://line.crystal-ott.com/RtNRsrxIFEmtfYX/buLi3EPoPU/105765
+#EXTINF:0 group-title="ספורט---1" tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-rec="0",ספורט 5 [COLOR aqua]+ [/COLOR] IL
+http://line.crystal-ott.com/RtNRsrxIFEmtfYX/buLi3EPoPU/105764
+#EXTINF:0 group-title="ספורט---1" tvg-id="3992" tvg-logo="http://epg.it999.ru/img/3992.png" tvg-rec="0",ספורט 5 GOLD IL
+http://line.crystal-ott.com/RtNRsrxIFEmtfYX/buLi3EPoPU/105769
+#EXTINF:0 group-title="ספורט---1" tvg-id="3993" tvg-logo="http://epg.it999.ru/img/3993.png" tvg-rec="0",ספורט 5 LIVE [COLOR aqua]+ [/COLOR] IL
+http://line.crystal-ott.com/RtNRsrxIFEmtfYX/buLi3EPoPU/105772
+#EXTINF:0 group-title="ספורט---1" tvg-id="4312" tvg-logo="http://epg.it999.ru/img/4312.png" tvg-rec="0",ספורט 5 PLUS [COLOR aqua]+ [/COLOR] IL
+http://line.crystal-ott.com/RtNRsrxIFEmtfYX/buLi3EPoPU/105771
 
 
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Disney Junior
-http://gtv23.xyz:80/test8000/test8000/230956.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HALA TV FHD
-http://gtv23.xyz:80/test8000/test8000/230957.ts
-#EXTINF:-1,IL Hidabroot Channel
-http://gtv23.xyz:80/test8000/test8000/230958.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOME +
-http://gtv23.xyz:80/test8000/test8000/230959.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT 8 HD
-http://gtv23.xyz:80/test8000/test8000/230960.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT 3 HD
-http://gtv23.xyz:80/test8000/test8000/230961.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT C4
-http://gtv23.xyz:80/test8000/test8000/230962.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Kabbalah TV
-http://gtv23.xyz:80/test8000/test8000/230964.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Keshet HD
-http://gtv23.xyz:80/test8000/test8000/230967.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", MUSIC 24
-http://gtv23.xyz:80/test8000/test8000/230969.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Reshet 13 HD
-http://gtv23.xyz:80/test8000/test8000/230970.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", VIVA
-http://gtv23.xyz:80/test8000/test8000/230977.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES 2 HD
-http://gtv23.xyz:80/test8000/test8000/230980.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES ACTION HD
-http://gtv23.xyz:80/test8000/test8000/230984.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES COMEDY HD
-http://gtv23.xyz:80/test8000/test8000/230985.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES Israeli Cinema
-http://gtv23.xyz:80/test8000/test8000/230989.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES Sport 5 Live HD
-http://gtv23.xyz:80/test8000/test8000/230990.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", SPORT 5 STARS HD
-http://gtv23.xyz:80/test8000/test8000/230992.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Yes Travel Channel
-http://gtv23.xyz:80/test8000/test8000/230993.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Disney HD
-http://gtv23.xyz:80/test8000/test8000/230999.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", E!
-http://gtv23.xyz:80/test8000/test8000/231000.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", MAKAN HD
-http://gtv23.xyz:80/test8000/test8000/1105470.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", ARUTZ 20 HD
-http://gtv23.xyz:80/test8000/test8000/1105472.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", BABY TV FHD
-http://gtv23.xyz:80/test8000/test8000/1105474.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", CBS REALITY
-http://gtv23.xyz:80/test8000/test8000/1105476.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", CHANNEL 11 HD
-http://gtv23.xyz:80/test8000/test8000/1105477.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", CHANNEL 12 HD
-http://gtv23.xyz:80/test8000/test8000/1105478.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Channel 23
-http://gtv23.xyz:80/test8000/test8000/1105481.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", CHANNEL 9 FHD
-http://gtv23.xyz:80/test8000/test8000/1105482.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", DISCOVERY FHD
-http://gtv23.xyz:80/test8000/test8000/1105483.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", DISNEY CHANNEL HD
-http://gtv23.xyz:80/test8000/test8000/1105484.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", EXTREME SPORTS
-http://gtv23.xyz:80/test8000/test8000/1105487.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", FOOD CHANNEL
-http://gtv23.xyz:80/test8000/test8000/1105489.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", FOODY
-http://gtv23.xyz:80/test8000/test8000/1105491.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HAGIGA MIZRAHIT
-http://gtv23.xyz:80/test8000/test8000/1105494.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Health Channel
-http://gtv23.xyz:80/test8000/test8000/1105495.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HERO!
-http://gtv23.xyz:80/test8000/test8000/1105496.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Hidabrut
-http://gtv23.xyz:80/test8000/test8000/1105497.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HISTORY HD
-http://gtv23.xyz:80/test8000/test8000/1105498.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT BOLLYWOOD HD
-http://gtv23.xyz:80/test8000/test8000/1105502.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT BOMBAY HD
-http://gtv23.xyz:80/test8000/test8000/1105503.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT CINEMA 2 HD
-http://gtv23.xyz:80/test8000/test8000/1105505.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT COMEDY CENTRAL HD
-http://gtv23.xyz:80/test8000/test8000/1105508.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT ENTERTAINMENT HD
-http://gtv23.xyz:80/test8000/test8000/1105509.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT FUN TV HD
-http://gtv23.xyz:80/test8000/test8000/1105510.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT GOLD HD
-http://gtv23.xyz:80/test8000/test8000/1105511.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT LULLI
-http://gtv23.xyz:80/test8000/test8000/1105514.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Hot Yaldut
-http://gtv23.xyz:80/test8000/test8000/1105515.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HOT ZONE HD
-http://gtv23.xyz:80/test8000/test8000/1105516.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", HUMOR TV
-http://gtv23.xyz:80/test8000/test8000/1105517.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", JIM JAM HD
-http://gtv23.xyz:80/test8000/test8000/1105518.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", JUNIOR HD
-http://gtv23.xyz:80/test8000/test8000/1105519.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", KAN EDU
-http://gtv23.xyz:80/test8000/test8000/1105520.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", LOGI
-http://gtv23.xyz:80/test8000/test8000/1105526.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", MIKAN HD
-http://gtv23.xyz:80/test8000/test8000/1105527.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", MTV MUSIC
-http://gtv23.xyz:80/test8000/test8000/1105528.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", NAT GEO HD
-http://gtv23.xyz:80/test8000/test8000/1105530.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", NAT GEO WILD HD
-http://gtv23.xyz:80/test8000/test8000/1105531.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", NICK
-http://gtv23.xyz:80/test8000/test8000/1105532.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", NICK JR
-http://gtv23.xyz:80/test8000/test8000/1105533.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", ONE 1 HD
-http://gtv23.xyz:80/test8000/test8000/1105534.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", ONE 2 HD
-http://gtv23.xyz:80/test8000/test8000/1105535.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Reality
-http://gtv23.xyz:80/test8000/test8000/1105536.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", SHOPPING
-http://gtv23.xyz:80/test8000/test8000/1105539.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", SPORT 1 HD
-http://gtv23.xyz:80/test8000/test8000/1105540.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", SPORT 2 HD
-http://gtv23.xyz:80/test8000/test8000/1105541.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", SPORT 3 HD
-http://gtv23.xyz:80/test8000/test8000/1105542.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", SPORT 4 HD
-http://gtv23.xyz:80/test8000/test8000/1105543.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", SPORT 5 HD
-http://gtv23.xyz:80/test8000/test8000/1105545.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", SPORT 5 PLUS HD
-http://gtv23.xyz:80/test8000/test8000/1105547.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", SPORT 5 GOLD HD
-http://gtv23.xyz:80/test8000/test8000/1105549.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", TRAVEL CHANNEL HD
-http://gtv23.xyz:80/test8000/test8000/1105551.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YAM TIHONI
-http://gtv23.xyz:80/test8000/test8000/1105555.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YELADIM
-http://gtv23.xyz:80/test8000/test8000/1105557.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", ZOOM TV
-http://gtv23.xyz:80/test8000/test8000/1105573.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES Drama HD
-http://gtv23.xyz:80/test8000/test8000/230987.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Channel 20
-http://gtv23.xyz:80/test8000/test8000/1368153.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Yes Movies Action FHD
-http://gtv23.xyz:80/test8000/test8000/1368360.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES Movies COMEDY
-http://gtv23.xyz:80/test8000/test8000/1368361.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", CHANNEL 13
-http://gtv23.xyz:80/test8000/test8000/1105479.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", VIVA PLUS
-http://gtv23.xyz:80/test8000/test8000/230978.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES 1 HD
-http://gtv23.xyz:80/test8000/test8000/230979.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES 5 HD
-http://gtv23.xyz:80/test8000/test8000/230983.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES DOCU
-http://gtv23.xyz:80/test8000/test8000/230986.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", Knesset Channel
-http://gtv23.xyz:80/test8000/test8000/230968.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", FINE LIVING
-http://gtv23.xyz:80/test8000/test8000/1105488.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES 3 HD
-http://gtv23.xyz:80/test8000/test8000/230981.ts
-#EXTINF:0 group-title="ישראל-5" tvg-id="4296" tvg-logo="" tvg-rec="0", YES 4 HD
-http://gtv23.xyz:80/test8000/test8000/230982.ts
+
